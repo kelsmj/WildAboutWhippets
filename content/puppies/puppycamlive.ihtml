@@ -1,0 +1,72 @@
+
+<HTML>
+<HEAD>
+</HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+function Init() {
+    if ((navigator.appName != "Netscape") &&
+        (navigator.userAgent.indexOf('Opera') == "-1"))
+    {
+       window.setInterval("ShowFrameRate()", 3000)
+    }
+}
+
+function ShowFrameRate() {
+    if (0)
+    {
+       var fFrameRate = cvcs.GetFrameRate()
+       window.status = "Frame:" + fFrameRate.toString() + " fps"
+    }
+    cvcs.GetRealTimeData() 
+    CurrentTime.innerHTML = cvcs.GetTimeString()
+    GetTrigger()
+}
+
+function GetTrigger() {
+    if (cvcs.GetIOOut1() == 1) {
+       TriggerOut1.innerHTML = "[ON]"
+    }
+    else {
+       TriggerOut1.innerHTML = "[OFF]"
+    }
+
+    if (cvcs.GetIOOut2() == 1) {
+       TriggerOut2.innerHTML = "[ON]"
+    }
+    else {
+       TriggerOut2.innerHTML = "[OFF]"
+    }
+
+    if (cvcs. GetImageUpload() == 1) {
+       ImageUpload.innerHTML = "[ON]"
+    }
+    else {
+       ImageUpload.innerHTML = "[OFF]"
+    }
+}
+</SCRIPT>
+<body bgcolor=white onload="Init()">
+<div class="contentbox">
+<form action="/puppy.htm" method="POST">
+    <table border=0 cellspacing=0 width=745 align = "CENTER">
+    <tr>
+     <td bgcolor=e4ebf1 align=center colspan=3>
+       <TABLE>
+          <tr>
+           <td>
+            <APPLET name="cvcs" CODEBASE="http://68.57.218.206:80/" CODE="xplug.class" WIDTH=640 HEIGHT=480>
+            <param name="RemotePort" value=80>
+            <param name="Timeout" value=5000>
+            <param name="RotateAngle" value=0>
+            <param name="PreviewFrameRate" value=2>
+            <param name="DeviceSerialNo" value="cHVwcHk6cHVwcHk=">
+            </APPLET>
+           </td>
+          </tr>
+       </TABLE>
+     </td>
+    </tr>
+    </table>
+</form>
+</body>
+</HTML>

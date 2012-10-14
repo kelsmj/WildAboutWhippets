@@ -13,3 +13,5 @@
 {
 	padding:10px;
 }
+.dropdown-submenu:hover > .dropdown-menu .dropdown-menu { display: none; }
+.dropdown-submenu:hover .dropdown-submenu:hover > .dropdown-menu { display: block; }

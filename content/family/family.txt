@@ -1,0 +1,113 @@
+<div class="contentbox">
+<table width = "95%">
+	<tr>
+		<td valign = "top">
+			<div align="left"><img src = "images/dog3.jpg"></div>
+			<div align="left"><img src = "images/dog4.jpg"></div>
+			<div align="left"><img src = "images/dog5.jpg"></div>
+			<div align="left"><img src = "images/dog6.jpg"></div>
+			<div align="left"><img src = "images/dog8.jpg"></div>
+			<div align="left"><img src = "images/dog9.jpg"></div>
+		</td>
+		<td valign = "top">
+			<div align="left">
+				<P>
+				<h2><B>Family and Friends:</B></h2>
+				</P>
+				<P>
+				We'd like to share the websites of our extended whippet family and friends...
+				</P>
+				<P>
+<LI><A href = "http://www.freewebs.com/shineonwhippets/index.htm">Shine On Whippets</A> 
+<LI><A href = "http://whippetlovers.com/board.htm">Whippet Lovers Board</A> - Another friendly online whippet group.  Jump right in and introduce yourself!</LI><BR><BR>
+<LI><A href = "http://groups.yahoo.com/group/whippetsanity/">Whippetsanity</A> - A whippet discussion group consisting of whippet breeders and enthusiasts.</LI><BR><BR>
+<LI><A href = "http://groups.yahoo.com/group/Petdogs-L/">Pegdogs-L </A> - This group is for anyone who owns a dog.  Ask questions and get answers fast!</LI><BR><BR>
+				</P>
+		<P>
+				<h2><U><B>Whippet Organizations:</B></U></h2>
+				</P>
+		<p>
+<LI><A href = "http://www.americanwhippetclub.net/">American Whippet Club</A> - Parent club of whippets.  Offers many whippet activities.  It is also a direct source for Whippet Rescue.</LI><BR><BR>
+
+<LI><A href = "http://www.whippetracing.org/">Whippet Racing Association</a> - Straight racing</LI><BR><BR>
+
+<LI><A href = "http://www.nawra.com/">North American Whippet Racing Association</a> - Straight racing</LI><BR><BR>
+
+<LI><A href = "http://www.notra.org/body.shtml">National Oval Track Racing Association</a> - Oval track racing</LI><BR><BR>
+
+<LI><A href = "http://www.asfa.org/">American Sighthound Field Association</a> - lure coursing</LI><BR><BR>
+				</P>
+			<P>
+				<h2><U><B>Exceptional Whippet Websites:</B></U></h2>
+				</P>
+		<P>
+<LI><A href = "http://www.whippetview.com/">Whippet View</A> - David Howten puts together a wonderful site packed full of whippet information.  Learn everything from the history of whippets to how to crate train your whippet.  You can spend hours reading this site.  Don't forget to check out the fun pages!</LI><BR><BR>
+
+<LI><A href = "http://www.whippetview.com/wvlinks.html">Whippet Links</A> - A quick reference for whippet enthusiasts that are interested in other whippet kennels.  This site is also maintained by David Howten.</LI><BR><BR>
+
+<LI><A href = "http://www.sonic.net/~whippet/">Whippets: Born to Run</A> - This site provides general information on the whippet breed.  It also gives a link to Whippet-L, another online whippet discussion group. </LI><BR><BR>
+ 
+<LI><A href = "http://www.greyhoundadoption.org/lurecoursing.htm">Lure Coursing - Getting Started</A> - John Parker guides you through the concepts of lure coursing.</LI><BR><BR>
+
+<LI><A href = "http://www.asfa.org/ASFABeginnersGuide06-03.pdf">Beginners Guide to Lure Coursing</A> - Answers several questions about lure coursing.</LI><BR><BR>
+
+<LI><A href = "http://www.bluegrace.com/handling.html">Beginners Guide to Showing</A> - A great site for anyone who wants to venture into the show ring.</LI><BR><BR>
+
+<LI><A href = "http://bellsouthpwp.net/d/d/ddoggone/Homepage/Genetics/Genetics.html">Color Genetics in Whippets</A> - Everything you want to know about color in whippets.</LI><BR><BR>
+		</P>
+			
+<P>
+				<h2><U><B>Recommended Reading:</B></U></h2>
+				</P>
+<LI><A href = "http://whippetwatch.com">Whippet Watch Magazine</A> - Informative bimonthly magazine dedicated to the well being of whippets. It includes upcoming whippet events, health related news, available rescues, and much more.</LI><BR><BR>
+
+<LI><A href = "http://www.amazon.com/exec/obidos/tg/detail/-/0764103121/qid=1073236060/sr=1-2/ref=sr_1_2/104-6279795-7143903?v=glance&s=books">Whippets</A> - By D. Caroline Coile.  Everything about purchase, adoption, care, nutrition, behavior & training.</LI><BR><BR>
+
+<LI><A href = "http://www.amazon.com/exec/obidos/tg/detail/-/0715384996/qid=1043716049/sr=8-2/ref=sr_8_2/104-6279795-7143903?v=glance&s=books&n=507846">The Whippet</A> - By Bo Bengston.  Details the history of the whippet and it's evolution the whippet we know today.</LI><BR><BR>
+
+<LI><A href = "http://www.amazon.com/exec/obidos/ASIN/0876053592/qid%3D1043716123/sr%3D11-1/ref%3Dsr%5F11%5F1/104-6279795-7143903">The Whippet Today</A> - By Patsy Gilmour.  Focuses on the history of the whippet; influential kennels and whippet activities.</LI><BR><BR>
+<P>
+				<h2><U><B>Shopping for your Whippet!:</B></U></h2>
+				</P>
+				<LI><A href = "http://www.dogwalkers.net">A Dog in the Garden</a> - Lots of unique dog related gifts.  The store is managed by Patience Renzulli, author of Mama Pajama Tells A Story.  Get your copy today!</LI><BR><BR>
+
+<LI><A href = "http://www.bowwowware.com/">BowWoWware</a> - Collars, leads, coats, totes, trophies, etc... get anything you want embroidered!</LI><BR><BR>
+
+<LI><A href = "http://equineartbyjenn.netfirms.com/dog.html">Whippet Art & Portraits</a> - Commission a portrait of your whippet!</LI><BR><BR>
+
+<LI><A href = "http://www.bearly.com/fabric_art.shtml">Fabric Art</a> - Absolutely beautiful wall hangings of your whippet.  Veronica is wonderful to work with and her work is fabulous!</LI><BR><BR>
+
+<LI><A href = "http://www.iinet.com/~pof/index.htm">Roundabout Whippet Supplies</a> - Coursing and racing gear</LI><BR><BR>
+
+<LI><A href = "http://www.houndtogs.com/">Whippet Coats</a> - Let Hound Togs design your whippet's outerwear!</LI><BR><BR>
+
+<LI><A href = "http://www.northwindcatalog.com/martingale_collars.htm">More Whippet Collars</a> - Northwind online store.  </LI><BR><BR>
+
+<LI><A href =
+"http://www.gocoursing.com">Even More Whippet Collars</a> - especially for the lure courser! </LI><BR><BR>
+
+<LI><A href =
+"http://whippetwatch.com/1stchoice/">1st Choice Collars & Leads</a> - Designer collars made by Mary Magee (editor of Whippet Watch Magazine) </LI><BR><BR>
+
+<LI><A href =
+"http://www.wistwindwarm-ups.com/">Wistwind Warm-Ups</a> - lots of styles and fabrics for your spoiled hound! </LI><BR><BR>
+
+<LI><A href = "http://www.cottagehounddesigns.com/">Cottage Hound Designs</a> - specially made jammies for chili whippets</LI><BR><BR>
+</div>
+
+<LI><A href =
+"http://www.decotogs.com/">Decotogs</a> - Every whippet needs a snuggly! </LI><BR><BR>
+
+<LI><A href =
+"http://www.canineart.elambdesign.com/canineart/">E. Lamb Designs</a> -  Custom made whippet sculptures </LI><BR><BR>
+
+<LI><A href =
+"http://www.classichound.com/">Classic Hound</a> - Elegant accessories for the sighthound </LI><BR><BR>
+	
+			</P>
+		<P>
+		<h2><U><B>Please let us know if there is GREAT link to add to the list!</B></U></h2>
+</tr>
+</table>
+</div>
+
