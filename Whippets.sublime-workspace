@@ -8,50 +8,58 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"file": "app/views/pages/dogs/kenny.html.erb",
 			"settings":
 			{
-				"buffer_size": 289,
+				"buffer_size": 1235,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/pages/_nav.html.erb",
+			"file": "content/litters/nico_hayley/kenny.ihtml",
 			"settings":
 			{
-				"buffer_size": 11582,
+				"buffer_size": 1232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 358,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/kelsmj/Code/dotfiles/.aliases",
+			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 3927,
+				"buffer_size": 1760,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/pages/competing/capona.html.erb",
+			"file": "app/views/pages/photos.html.erb",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1032,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/pages/competing/fig.html.erb",
+			"file": "app/views/pages/home.html.erb",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1034,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Gemfile",
+			"file": "app/views/pages/about.html.erb",
 			"settings":
 			{
-				"buffer_size": 441,
+				"buffer_size": 2242,
 				"line_ending": "Unix"
 			}
 		},
@@ -61,46 +69,6 @@
 			{
 				"buffer_size": 1609,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/pages/competing/kenny.html.erb",
-			"settings":
-			{
-				"buffer_size": 35,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/stylesheets/application.css",
-			"settings":
-			{
-				"buffer_size": 322,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 1747,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/pages/family_friends.html.erb",
-			"settings":
-			{
-				"buffer_size": 1335,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/family/family.ihtml",
-			"settings":
-			{
-				"buffer_size": 1443,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -156,6 +124,21 @@
 	},
 	"file_history":
 	[
+		"/Users/kelsmj/Code/WildAboutWhippets/.gitignore",
+		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/_nav.html.erb",
+		"/Users/kelsmj/Code/dotfiles/.aliases",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/competing/capona.html.erb",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/competing/fig.html.erb",
+		"/Users/kelsmj/Code/WildAboutWhippets/Gemfile",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/competing/kenny.html.erb",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/assets/stylesheets/application.css",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/layouts/application.html.erb",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/family_friends.html.erb",
+		"/Users/kelsmj/Code/WildAboutWhippets/content/family/family.ihtml",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/about.html.erb",
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/photos.html.erb",
 		"/Users/kelsmj/.aliases",
 		"/Users/kelsmj/.bash_profile",
 		"/Users/kelsmj/Code/dotfiles/.bash_profile",
@@ -163,16 +146,12 @@
 		"/Users/kelsmj/Code/dotfiles/.gitconfig",
 		"/Users/kelsmj/Code/dotfiles/.git/.config",
 		"/Users/kelsmj/Code/WildAboutWhippets/Whippets.sublime-project",
-		"/Users/kelsmj/Code/WildAboutWhippets/Gemfile",
-		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/_nav.html.erb",
 		"/Users/kelsmj/Code/WildAboutWhippets/app/views/layouts/_nav.html.erb",
 		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/Sublime-HTMLPrettify/HTMLPrettify.py",
 		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-		"/Users/kelsmj/Code/WildAboutWhippets/app/views/home/home.html.erb",
-		"/Users/kelsmj/Code/WildAboutWhippets/.gitignore"
+		"/Users/kelsmj/Code/WildAboutWhippets/app/views/home/home.html.erb"
 	],
 	"find":
 	{
@@ -190,6 +169,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			", :alt => \"Girls\"",
 			"link_to",
 			"Photos"
 		],
@@ -199,6 +179,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -209,28 +190,28 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"file": "app/views/pages/dogs/kenny.html.erb",
 					"settings":
 					{
-						"buffer_size": 289,
+						"buffer_size": 1235,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1157,
+								1157
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -240,25 +221,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/views/pages/_nav.html.erb",
+					"file": "content/litters/nico_hayley/kenny.ihtml",
 					"settings":
 					{
-						"buffer_size": 11582,
+						"buffer_size": 1232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								647,
-								647
+								1232,
+								926
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -268,174 +248,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/kelsmj/Code/dotfiles/.aliases",
-					"settings":
-					{
-						"buffer_size": 3927,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								214,
-								214
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/views/pages/competing/capona.html.erb",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/views/pages/competing/fig.html.erb",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "Gemfile",
-					"settings":
-					{
-						"buffer_size": 441,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								374,
-								374
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/assets/stylesheets/bootstrap_and_overrides.css.less",
-					"settings":
-					{
-						"buffer_size": 1609,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1609,
-								1609
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/views/pages/competing/kenny.html.erb",
-					"settings":
-					{
-						"buffer_size": 35,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "app/assets/stylesheets/application.css",
 					"settings":
 					{
-						"buffer_size": 322,
+						"buffer_size": 358,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								322,
-								162
+								334,
+								334
 							]
 						],
 						"settings":
@@ -449,19 +273,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 3,
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 1747,
+						"buffer_size": 1760,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1453,
-								1453
+								1336,
+								1336
 							]
 						],
 						"settings":
@@ -477,19 +301,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "app/views/pages/family_friends.html.erb",
+					"buffer": 4,
+					"file": "app/views/pages/photos.html.erb",
 					"settings":
 					{
-						"buffer_size": 1335,
+						"buffer_size": 1032,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								64,
-								64
+								297,
+								329
 							]
 						],
 						"settings":
@@ -504,25 +328,78 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
-					"file": "content/family/family.ihtml",
+					"buffer": 5,
+					"file": "app/views/pages/home.html.erb",
 					"settings":
 					{
-						"buffer_size": 1443,
+						"buffer_size": 1034,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1443,
-								0
+								126,
+								126
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/pages/about.html.erb",
+					"settings":
+					{
+						"buffer_size": 2242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2166,
+								2166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/stylesheets/bootstrap_and_overrides.css.less",
+					"settings":
+					{
+						"buffer_size": 1609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1608,
+								1608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -566,7 +443,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
