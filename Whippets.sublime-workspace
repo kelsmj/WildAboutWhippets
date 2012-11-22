@@ -11,16 +11,8 @@
 			"file": "app/views/pages/dogs/kenny.html.erb",
 			"settings":
 			{
-				"buffer_size": 1235,
+				"buffer_size": 1303,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/litters/nico_hayley/kenny.ihtml",
-			"settings":
-			{
-				"buffer_size": 1232,
-				"line_ending": "Windows"
 			}
 		},
 		{
@@ -59,7 +51,7 @@
 			"file": "app/views/pages/about.html.erb",
 			"settings":
 			{
-				"buffer_size": 2242,
+				"buffer_size": 2294,
 				"line_ending": "Unix"
 			}
 		},
@@ -124,6 +116,7 @@
 	},
 	"file_history":
 	[
+		"/Users/kelsmj/Code/WildAboutWhippets/content/litters/nico_hayley/kenny.ihtml",
 		"/Users/kelsmj/Code/WildAboutWhippets/.gitignore",
 		"/Users/kelsmj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/kelsmj/Code/WildAboutWhippets/app/views/pages/_nav.html.erb",
@@ -190,7 +183,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -198,46 +191,20 @@
 					"file": "app/views/pages/dogs/kenny.html.erb",
 					"settings":
 					{
-						"buffer_size": 1235,
+						"buffer_size": 1303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1157,
-								1157
+								0,
+								35
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/litters/nico_hayley/kenny.ihtml",
-					"settings":
-					{
-						"buffer_size": 1232,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1232,
-								926
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -247,7 +214,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "app/assets/stylesheets/application.css",
 					"settings":
 					{
@@ -273,7 +240,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
@@ -284,8 +251,8 @@
 						"selection":
 						[
 							[
-								1336,
-								1336
+								228,
+								148
 							]
 						],
 						"settings":
@@ -301,7 +268,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "app/views/pages/photos.html.erb",
 					"settings":
 					{
@@ -328,7 +295,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "app/views/pages/home.html.erb",
 					"settings":
 					{
@@ -355,19 +322,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "app/views/pages/about.html.erb",
 					"settings":
 					{
-						"buffer_size": 2242,
+						"buffer_size": 2294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2166,
-								2166
+								621,
+								641
 							]
 						],
 						"settings":
@@ -382,7 +349,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "app/assets/stylesheets/bootstrap_and_overrides.css.less",
 					"settings":
 					{
