@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.6'
+gem "rails", "~> 3.2.13"
 
 group :development do
   gem 'sqlite3', '1.3.5'
@@ -25,3 +25,4 @@ group :production do
 end
 
 gem 'high_voltage'
+gem "unicorn", "~> 4.6.2"
