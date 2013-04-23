@@ -22,7 +22,7 @@ gem "jquery-rails", "~> 2.1.3"
 
 group :production do
   gem 'pg', '0.12.2'
-  #gem "unicorn", "~> 4.6.2"
+  gem "unicorn", "~> 4.6.2"
 end
 
 gem 'high_voltage'
