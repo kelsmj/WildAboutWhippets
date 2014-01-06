@@ -1,0 +1,51 @@
+<% content_for :title, "Short Stack" %>
+
+<div class="row-center">
+	<h2>WildAbout Big Things in Small Packages</h2>
+</div>
+<div class="row-center">
+	<h4>(Notorious Poeta Pantera WRChX, SORC-II, CD, RE, MX, MXJ, ADC, AgI, AgIJ, RPT, AV x WildAbout Spirit of Windwalker CRXIV, OTRM, SR)</I><BR>Born May 14th, 2013</h4>
+</div>
+<div class="row-center">
+	<P>Height:  Weight: </P>
+</div>
+<div class="row-center">
+	<%= image_tag("Whippets/shortie*.jpg") %>
+</div>
+<br>
+<div class="row-center">
+	<div class="span11">
+		<A href = "http://thewhippetarchives.net/details.php?id=194142"><h3>Pictorial Pedigree & Stats</h3></A>
+	</div>
+</div>
+<br/>
+<br/>
+<div class="row-center">
+	<div class="span11">
+		<h3>Shortie:</h3>
+		<p>Shortie lives in Noblesville, Indiana with an awesome household complete with two kids, two whippets and a beagle! We are looking forward to getting him out on the track in 2014.</p>
+		<br/>
+<br/>
+	</div>
+</div>
+
+<div class="row-center">
+	<div class="span1">&nbsp;</div>
+	<div class="span9">
+	<div id="myCarousel" class="carousel slide">
+		<!-- Carousel items -->
+		<div class="carousel-inner">
+			<div class="active item"><%= image_tag("Whippets/shortie1.jpg") %></div>
+			<div class="item"><%= image_tag("Whippets/shortie2.jpg") %></div>
+			<div class="item"><%= image_tag("Whippets/shortie3.jpg") %></div>
+			<div class="item"><%= image_tag("Whippets/shortie4.jpg") %></div>
+			<div class="item"><%= image_tag("Whippets/shortie.jpg") %></div>
+			<div class="item"><%= image_tag("Whippets/shortie6.jpg") %></div>
+		</div>
+		<!-- Carousel nav -->
+		<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+		<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+	</div>
+	<div class="span1">&nbsp;</div>
+</div>
+</div>
